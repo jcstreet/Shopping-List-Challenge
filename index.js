@@ -28,6 +28,7 @@ function addItem() {
         </div>
         </li>
         `);
+        
         $('#shopping-list-entry').val('');    
     }); 
 };
